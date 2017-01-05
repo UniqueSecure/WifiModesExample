@@ -15,7 +15,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 There are 2 ways to install the SDK into your projec: 
 
-1.- ##Gradle interation
+1.- Gradle interation
 
 You can integrate the MePOS connect library using gradle, adding the following configuration to your
 build.gradle file:
@@ -31,7 +31,7 @@ dependencies {
  compile 'com.uniquesecure:meposconnect:1.10:@aar'
  }
 ```
-2.- Manual 
+2.- Manual integration
 
 * Create a new Module in your Android project and select the option: *Import an existing JAR or AAR package*.
 * Define the path of your .aar file and the name of the submodule. In this case the module name is *MePOSConnectLib*
