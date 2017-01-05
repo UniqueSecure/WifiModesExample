@@ -25,9 +25,6 @@ There are two options:
 - Add a app module dependencies on the library
     - On scope select compile
 
-Continue [here](#creating-a-new-mepos-object)
-
-
 ***2 Gradle Integration***
 
   You can integrate the MePOS connect library using gradle, adding the following configuration to your build.gradle file:
