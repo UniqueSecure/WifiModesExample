@@ -1,0 +1,7 @@
+#Thu Jan 05 07:21:06 CST 2017
+base.0=/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_27f9ff0b59ed8868593d7168e690cd1dbc38f0dc
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7806d9fd529f407c118bdca8de1962c15904e8f6/classes.dex
+base.1=/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7806d9fd529f407c118bdca8de1962c15904e8f6
+file.0=/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_27f9ff0b59ed8868593d7168e690cd1dbc38f0dc/classes.dex
