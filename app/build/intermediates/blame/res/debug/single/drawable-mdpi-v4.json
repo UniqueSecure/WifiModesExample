@@ -45,7 +45,7 @@
     },
     {
         "merged": "/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
-        "source": "/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/exploded-aar/MePOSwifiExample/MePOSConnectLib/unspecified/res/drawable-mdpi-v4/ic_launcher.png"
+        "source": "/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/exploded-aar/com.uniquesecure/meposconnect/1.10/res/drawable-mdpi-v4/ic_launcher.png"
     },
     {
         "merged": "/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_focused_holo.9.png",

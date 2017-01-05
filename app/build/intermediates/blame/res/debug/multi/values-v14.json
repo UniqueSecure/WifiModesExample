@@ -12,7 +12,7 @@
                     "endOffset": 201
                 },
                 "from": {
-                    "file": "/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/exploded-aar/MePOSwifiExample/MePOSConnectLib/unspecified/res/values-v14/values-v14.xml",
+                    "file": "/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/exploded-aar/com.uniquesecure/meposconnect/1.10/res/values-v14/values-v14.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

@@ -12,6 +12,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/exploded-aar/com.uniquesecure/meposconnect/1.10/jars/libs/xmodem-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9b60650b95ac290be52244c51e9077e5489560fb">
+        <dex dex="/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/xmodem-1.0_8b24de433194c43c98967e6560f41ad3bb376683/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
@@ -57,6 +66,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/exploded-aar/com.uniquesecure/meposconnect/1.10/jars/libs/d2xx.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ebcf28a4dd7e345f5fe8351ffc61eed5b0208b57">
+        <dex dex="/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/d2xx_bd4a50269b99a91f08986757bee91ab40b01e8df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
@@ -79,7 +97,7 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
-        sha1="e176310b39435212f879d29e61a60bda42af9130">
+        sha1="e75801e7f350597c1ed7dfc112738fe32b647671">
         <dex dex="/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_27f9ff0b59ed8868593d7168e690cd1dbc38f0dc/classes.dex" />
     </item>
     <item
@@ -142,7 +160,7 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
-        sha1="e33661f264d4daaff6a9b6f3263e7e681a2ec2d1">
+        sha1="7ad610d982bf2566dc2285ad841ad9b0c6d1ecaa">
         <dex dex="/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7806d9fd529f407c118bdca8de1962c15904e8f6/classes.dex" />
     </item>
     <item
@@ -165,30 +183,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/exploded-aar/MePOSwifiExample/MePOSConnectLib/unspecified/jars/libs/xmodem-1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="9b60650b95ac290be52244c51e9077e5489560fb">
-        <dex dex="/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/transforms/dex/debug/folders/1000/8/xmodem-1.0_970510356c543f37a35ac28fc030b56e57978cfe/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/exploded-aar/MePOSwifiExample/MePOSConnectLib/unspecified/jars/libs/d2xx.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="2f843ebab77722f1ccc8cff42c868fda7d669c73">
-        <dex dex="/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/transforms/dex/debug/folders/1000/8/d2xx_d27e35e413762263db46c2e70bb5816877d667e0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
         sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
         <dex dex="/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_b9136e11077b01d10af9edc9968815720763dac2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/exploded-aar/com.uniquesecure/meposconnect/1.10/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7e0ff02ddb66d202a0fb3321ee6414571abdde01">
+        <dex dex="/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.uniquesecure-meposconnect-1.10_dbb6dbf4abc04dd441f99af6dbd44bbb0b2618fc/classes.dex" />
     </item>
     <item
         is-multidex="true"

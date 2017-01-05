@@ -6,6 +6,23 @@ This is a sample code to  integrate the MePOS wifi methods features to your appl
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
+## Gradle integration
+
+You can integrate the MePOS connect library using gradle, adding the following configuration to your
+build.gradle file:
+
+```
+repositories {
+ maven { url "http://connect.mepos.io/artifactory/libs-release-local" }
+}
+```
+
+```
+dependencies {
+ compile 'com.uniquesecure:meposconnect:1.10:@aar'
+ }
+```
+
 ### Prerequisites
 
 

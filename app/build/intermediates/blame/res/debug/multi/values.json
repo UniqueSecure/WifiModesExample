@@ -5545,7 +5545,7 @@
                     "endOffset": 51278
                 },
                 "from": {
-                    "file": "/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/exploded-aar/MePOSwifiExample/MePOSConnectLib/unspecified/res/values/values.xml",
+                    "file": "/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/exploded-aar/com.uniquesecure/meposconnect/1.10/res/values/values.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
