@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ED5250</color>
+    <color name="colorPrimaryDark">#558B2F</color>
+    <color name="colorAccent">#558B2F</color>
+    <color name="colorButton">#FFFFFF</color>
+    <color name="colorTextTitle">#000000</color>
+    <color name="colorTextSubtitle">#757575</color>
+    <color name="cardColor">#BDBDBD</color>
+    <color name="cardColorWifiClient">#5C6BC0</color>
+
+</resources>

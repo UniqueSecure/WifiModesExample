@@ -1,0 +1,34 @@
+<resources>
+
+    <string name="app_name">MePOS wifi example</string>
+    <string name="wifi_title">MePOS wifi configurations</string>
+    <string name="default_mode">Default</string>
+    <string name="ap_mode">Access point</string>
+    <string name="eth_client_mode">Ethernet client</string>
+    <string name="wifi_client_mode">Wifi client</string>
+    <string name="ap_button">Go</string>
+    <string name="networkmode">Network Mode</string>
+    <string name="apheader">Access point\n type the following information</string>
+    <string name="wcheader">Wifi client\n type the following information</string>
+    <string name="networkssid">S S I D</string>
+    <string name="networkip">IP address</string>
+    <string name="passwordwifi">Password</string>
+    <string name="encryption">Encryption</string>
+    <string name="switchUsbWifi">USB/WIFI</string>
+    <string name="dockMePOS">Please dock the tablet to the MePOS.</string>
+    <string name="it_will_take_a_minute">It will take about one minute to configure, please wait.</string>
+    <string name="not_aviliable">N/A</string>
+
+    <string-array name="encryptions">
+        <item>NONE</item>
+        <item>WEP_OPEN</item>
+        <item>WEP</item>
+        <item>WPA_TKIP</item>
+        <item>WPA_AES</item>
+        <item>WPA2_TKIP</item>
+        <item>WPA2_AES</item>
+        <item>WPAWPA2_TKIP</item>
+        <item>WPAWPA2_AES</item>
+        <item>WPAWPA2_AES</item>
+    </string-array>
+</resources>
