@@ -70,7 +70,7 @@ ADDED from /Users/franciscodominguez/proyectos/MePOSwifiExample/app/src/main/And
 		ADDED from /Users/franciscodominguez/proyectos/MePOSwifiExample/app/src/main/AndroidManifest.xml:25:27-74
 uses-sdk
 INJECTED from /Users/franciscodominguez/proyectos/MePOSwifiExample/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.uniquesecure:meposconnect:1.10] /Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/exploded-aar/com.uniquesecure/meposconnect/1.10/AndroidManifest.xml:7:5-9:41
+MERGED from [com.uniquesecure:meposconnect:1.15] /Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/exploded-aar/com.uniquesecure/meposconnect/1.15/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:design:24.2.1] /Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:support-v4:24.2.1] /Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/AndroidManifest.xml:21:5-23:54

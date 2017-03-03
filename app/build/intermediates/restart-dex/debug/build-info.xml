@@ -5,29 +5,29 @@
     density="hdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="7078738574024"
+    timestamp="13031168983087"
     token="-2720657274655401249"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="5168" />
+        duration="2055" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="667" />
+        duration="668" />
     <task
         name="verifier"
-        duration="56" />
+        duration="73" />
 
     <artifact
         location="/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/outputs/apk/app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="7078738574024"
+        timestamp="13031168983087"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/outputs/apk/app-debug.apk"
