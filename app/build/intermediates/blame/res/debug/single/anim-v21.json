@@ -1,11 +1,11 @@
 [
     {
         "merged": "/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
-        "source": "/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/anim-v21/design_bottom_sheet_slide_in.xml"
+        "source": "/Users/franciscodominguez/.android/build-cache/0a988922ef15f48773492462954caf32947aa7c0/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
     },
     {
         "merged": "/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
-        "source": "/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/anim-v21/design_bottom_sheet_slide_out.xml"
+        "source": "/Users/franciscodominguez/.android/build-cache/0a988922ef15f48773492462954caf32947aa7c0/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
     },
     {
         "merged": "/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/res/merged/debug/anim-v21/design_appbar_state_list_animator.xml",

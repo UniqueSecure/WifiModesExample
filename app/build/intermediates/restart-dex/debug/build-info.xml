@@ -2,36 +2,91 @@
 <instant-run
     abi="arm64-v8a,armeabi-v7a,armeabi"
     api-level="23"
+    build-mode="COLD"
     density="hdpi"
-    format="8"
-    plugin-version="2.2.3"
-    timestamp="13031168983087"
+    format="10"
+    plugin-version="2.3.0"
+    timestamp="1489171615992"
     token="-2720657274655401249"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="2055" />
+        duration="2126" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="668" />
+        duration="240" />
     <task
         name="verifier"
-        duration="73" />
+        duration="39" />
 
     <artifact
+        location="/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+        type="SPLIT" />
+    <artifact
         location="/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/outputs/apk/app-debug.apk"
-        type="MAIN" />
+        type="SPLIT_MAIN" />
 
     <build
-        timestamp="13031168983087"
+        build-mode="FULL"
+        timestamp="1489171286195"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
+            location="/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            type="SPLIT" />
+        <artifact
             location="/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/outputs/apk/app-debug.apk"
-            type="MAIN" />
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1489171615992"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/outputs/apk/app-debug.apk"
+            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>

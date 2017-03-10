@@ -1,14 +1,14 @@
 [
     {
         "merged": "/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+        "source": "/Users/franciscodominguez/.android/build-cache/e697fdcc70633b053a1a0a3da016fbf3844a2418/output/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
         "merged": "/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+        "source": "/Users/franciscodominguez/.android/build-cache/e697fdcc70633b053a1a0a3da016fbf3844a2418/output/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
-        "source": "/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+        "source": "/Users/franciscodominguez/.android/build-cache/e697fdcc70633b053a1a0a3da016fbf3844a2418/output/res/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
     }
 ]

@@ -13,7 +13,6 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.uniquesecure.meposconnect.EncryptionMode;
-import com.uniquesecure.meposconnect.MePOS;
 import com.uniquesecure.meposconnect.MePOSConnectionType;
 
 import io.mepos.meposwifiexample.networkconfig.GetWifiInfo;
@@ -75,10 +74,10 @@ public class MainActivity extends MePOSAbstractActivity implements NetworkConfig
         mCardsSpaceWc = (Space) findViewById(R.id.cardsSpaceWc);
         mCard_view_config_wifi = (CardView) findViewById(R.id.card_view_config_wifi);
         mCard_view__wifi_client = (CardView) findViewById(R.id.card_view__wifi_client);
-
         mGetWifiInfo = new GetWifiInfo(getApplicationContext());
-
         mssid = mGetWifiInfo.getWifiName();
+        findMePOSUSB();
+
         mLabelSSIDwc.setText(mssid);
         String capabilities = mGetWifiInfo.getCapabilitiesFor(mssid);
         try {

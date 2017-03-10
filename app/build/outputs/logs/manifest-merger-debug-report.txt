@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/franciscodominguez/proyectos/MePOSwifiExample/app/src/main/AndroidManifest.xml:2:1-30:12
+ADDED from /Users/franciscodominguez/proyectos/MePOSwifiExample/app/src/main/AndroidManifest.xml:2:1-38:12
 	package
 		ADDED from /Users/franciscodominguez/proyectos/MePOSwifiExample/app/src/main/AndroidManifest.xml:3:5-40
 		INJECTED from /Users/franciscodominguez/proyectos/MePOSwifiExample/app/src/main/AndroidManifest.xml
@@ -32,18 +32,19 @@ ADDED from /Users/franciscodominguez/proyectos/MePOSwifiExample/app/src/main/And
 	android:name
 		ADDED from /Users/franciscodominguez/proyectos/MePOSwifiExample/app/src/main/AndroidManifest.xml:13:22-64
 application
-ADDED from /Users/franciscodominguez/proyectos/MePOSwifiExample/app/src/main/AndroidManifest.xml:15:5-28:19
-MERGED from [com.android.support:design:24.2.1] /Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:24.2.1] /Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:24.2.1] /Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:24.2.1] /Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:24.2.1] /Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-core-ui:24.2.1] /Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:24.2.1] /Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:cardview-v7:24.2.1] /Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/AndroidManifest.xml:22:5-20
+ADDED from /Users/franciscodominguez/proyectos/MePOSwifiExample/app/src/main/AndroidManifest.xml:15:5-36:19
+MERGED from [com.android.support:design:25.2.0] /Users/franciscodominguez/.android/build-cache/0a988922ef15f48773492462954caf32947aa7c0/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/franciscodominguez/.android/build-cache/e697fdcc70633b053a1a0a3da016fbf3844a2418/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/franciscodominguez/.android/build-cache/d19ad18e811131db1e3f5208ac065e43e5b58796/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/franciscodominguez/.android/build-cache/bcfc4395986d44101d792ec90ce4b434718b6602/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] /Users/franciscodominguez/.android/build-cache/34e7530587051ac05ffe2eae3bee062996023c25/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /Users/franciscodominguez/.android/build-cache/4df21500ea5c0a1d8db7784cd630341a0e5120e7/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/franciscodominguez/.android/build-cache/c3447478d71dff5961647aaa8efa7f4fef009998/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/franciscodominguez/.android/build-cache/1d0dabf5eab551b545cda6df898d0736e7e96727/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/franciscodominguez/.android/build-cache/93195e6655899806c88964f546026784ecd64fe5/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/franciscodominguez/.android/build-cache/7470da32efd50d7a46fde6cdc444279bec5a17d5/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/franciscodominguez/.android/build-cache/afc4019e62789effb0af9d3436f6626599c8b990/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:25.2.0] /Users/franciscodominguez/.android/build-cache/4425ff120b87b83463bdd4cffa4e9e23e7d5ba4d/output/AndroidManifest.xml:22:5-20
 	android:label
 		ADDED from /Users/franciscodominguez/proyectos/MePOSwifiExample/app/src/main/AndroidManifest.xml:18:9-41
 	android:supportsRtl
@@ -68,23 +69,38 @@ category#android.intent.category.LAUNCHER
 ADDED from /Users/franciscodominguez/proyectos/MePOSwifiExample/app/src/main/AndroidManifest.xml:25:17-77
 	android:name
 		ADDED from /Users/franciscodominguez/proyectos/MePOSwifiExample/app/src/main/AndroidManifest.xml:25:27-74
+receiver#io.mepos.meposwifiexample.MePOSUSBReceiver
+ADDED from /Users/franciscodominguez/proyectos/MePOSwifiExample/app/src/main/AndroidManifest.xml:29:9-34:20
+	android:name
+		ADDED from /Users/franciscodominguez/proyectos/MePOSwifiExample/app/src/main/AndroidManifest.xml:29:19-51
+intent-filter#android.hardware.usb.action.USB_DEVICE_ATTACHED+android.hardware.usb.action.USB_DEVICE_DETACHED
+ADDED from /Users/franciscodominguez/proyectos/MePOSwifiExample/app/src/main/AndroidManifest.xml:30:13-33:29
+action#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from /Users/franciscodominguez/proyectos/MePOSwifiExample/app/src/main/AndroidManifest.xml:31:17-90
+	android:name
+		ADDED from /Users/franciscodominguez/proyectos/MePOSwifiExample/app/src/main/AndroidManifest.xml:31:25-87
+action#android.hardware.usb.action.USB_DEVICE_DETACHED
+ADDED from /Users/franciscodominguez/proyectos/MePOSwifiExample/app/src/main/AndroidManifest.xml:32:17-90
+	android:name
+		ADDED from /Users/franciscodominguez/proyectos/MePOSwifiExample/app/src/main/AndroidManifest.xml:32:25-87
 uses-sdk
 INJECTED from /Users/franciscodominguez/proyectos/MePOSwifiExample/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.uniquesecure:meposconnect:1.15] /Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/exploded-aar/com.uniquesecure/meposconnect/1.15/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:design:24.2.1] /Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:24.2.1] /Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:24.2.1] /Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:24.2.1] /Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:24.2.1] /Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:recyclerview-v7:24.2.1] /Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-core-ui:24.2.1] /Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:24.2.1] /Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:cardview-v7:24.2.1] /Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.uniquesecure:meposconnect:1.15] /Users/franciscodominguez/.android/build-cache/04d72af81db8b38bd5e88191bdceb76c58c988e0/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.2.0] /Users/franciscodominguez/.android/build-cache/0a988922ef15f48773492462954caf32947aa7c0/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/franciscodominguez/.android/build-cache/e697fdcc70633b053a1a0a3da016fbf3844a2418/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/franciscodominguez/.android/build-cache/d19ad18e811131db1e3f5208ac065e43e5b58796/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/franciscodominguez/.android/build-cache/bcfc4395986d44101d792ec90ce4b434718b6602/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /Users/franciscodominguez/.android/build-cache/069339ce8ba638db8c647b7a9b623e22900a36d2/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] /Users/franciscodominguez/.android/build-cache/34e7530587051ac05ffe2eae3bee062996023c25/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] /Users/franciscodominguez/.android/build-cache/4df21500ea5c0a1d8db7784cd630341a0e5120e7/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/franciscodominguez/.android/build-cache/c3447478d71dff5961647aaa8efa7f4fef009998/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/franciscodominguez/.android/build-cache/1d0dabf5eab551b545cda6df898d0736e7e96727/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/franciscodominguez/.android/build-cache/93195e6655899806c88964f546026784ecd64fe5/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/franciscodominguez/.android/build-cache/7470da32efd50d7a46fde6cdc444279bec5a17d5/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] /Users/franciscodominguez/.android/build-cache/afc4019e62789effb0af9d3436f6626599c8b990/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:cardview-v7:25.2.0] /Users/franciscodominguez/.android/build-cache/4425ff120b87b83463bdd4cffa4e9e23e7d5ba4d/output/AndroidManifest.xml:20:5-43
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:24.2.1] /Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:design:25.2.0] /Users/franciscodominguez/.android/build-cache/0a988922ef15f48773492462954caf32947aa7c0/output/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
 		INJECTED from /Users/franciscodominguez/proyectos/MePOSwifiExample/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/franciscodominguez/proyectos/MePOSwifiExample/app/src/main/AndroidManifest.xml
