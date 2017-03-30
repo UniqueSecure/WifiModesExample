@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="meposconnect-1.16">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/95f851f513b0350eae41730c1679b1b0e6192b2b/output/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/95f851f513b0350eae41730c1679b1b0e6192b2b/output/jars/libs/usbserial-release.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/95f851f513b0350eae41730c1679b1b0e6192b2b/output/jars/libs/d2xx.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/95f851f513b0350eae41730c1679b1b0e6192b2b/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/95f851f513b0350eae41730c1679b1b0e6192b2b/output/jars/libs/xmodem-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
