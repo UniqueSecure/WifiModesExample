@@ -1,34 +1,34 @@
 [
     {
-        "merged": "/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
-        "source": "/Users/franciscodominguez/.android/build-cache/cddf5414d601813886f6e7f41128a51224d620bc/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+        "merged": "/home/fdominguezg/AndroidStudioProjects/WifiModesExample/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/fdominguezg/.android/build-cache/8cc0b58c0fa786eb3f0a3cd275ab29104ace6298/output/res/drawable-v21/abc_edit_text_material.xml"
     },
     {
-        "merged": "/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
-        "source": "/Users/franciscodominguez/.android/build-cache/adf3fa8a7197bbb6b18bd9868e4493822cad9318/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+        "merged": "/home/fdominguezg/AndroidStudioProjects/WifiModesExample/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/home/fdominguezg/.android/build-cache/5dc7ccec7730da2071082aef9ba820de6adede37/output/res/drawable-v21/design_password_eye.xml"
     },
     {
-        "merged": "/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
-        "source": "/Users/franciscodominguez/.android/build-cache/cddf5414d601813886f6e7f41128a51224d620bc/output/res/drawable-v21/notification_action_background.xml"
+        "merged": "/home/fdominguezg/AndroidStudioProjects/WifiModesExample/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/fdominguezg/.android/build-cache/8cc0b58c0fa786eb3f0a3cd275ab29104ace6298/output/res/drawable-v21/abc_btn_colored_material.xml"
     },
     {
-        "merged": "/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
-        "source": "/Users/franciscodominguez/.android/build-cache/adf3fa8a7197bbb6b18bd9868e4493822cad9318/output/res/drawable-v21/avd_show_password.xml"
+        "merged": "/home/fdominguezg/AndroidStudioProjects/WifiModesExample/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/home/fdominguezg/.android/build-cache/5dc7ccec7730da2071082aef9ba820de6adede37/output/res/drawable-v21/avd_hide_password.xml"
     },
     {
-        "merged": "/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
-        "source": "/Users/franciscodominguez/.android/build-cache/adf3fa8a7197bbb6b18bd9868e4493822cad9318/output/res/drawable-v21/avd_hide_password.xml"
+        "merged": "/home/fdominguezg/AndroidStudioProjects/WifiModesExample/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/fdominguezg/.android/build-cache/8cc0b58c0fa786eb3f0a3cd275ab29104ace6298/output/res/drawable-v21/notification_action_background.xml"
     },
     {
-        "merged": "/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
-        "source": "/Users/franciscodominguez/.android/build-cache/adf3fa8a7197bbb6b18bd9868e4493822cad9318/output/res/drawable-v21/design_password_eye.xml"
+        "merged": "/home/fdominguezg/AndroidStudioProjects/WifiModesExample/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/home/fdominguezg/.android/build-cache/5dc7ccec7730da2071082aef9ba820de6adede37/output/res/drawable-v21/avd_show_password.xml"
     },
     {
-        "merged": "/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
-        "source": "/Users/franciscodominguez/.android/build-cache/cddf5414d601813886f6e7f41128a51224d620bc/output/res/drawable-v21/abc_btn_colored_material.xml"
+        "merged": "/home/fdominguezg/AndroidStudioProjects/WifiModesExample/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/fdominguezg/.android/build-cache/8cc0b58c0fa786eb3f0a3cd275ab29104ace6298/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
     },
     {
-        "merged": "/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
-        "source": "/Users/franciscodominguez/.android/build-cache/cddf5414d601813886f6e7f41128a51224d620bc/output/res/drawable-v21/abc_edit_text_material.xml"
+        "merged": "/home/fdominguezg/AndroidStudioProjects/WifiModesExample/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/fdominguezg/.android/build-cache/5dc7ccec7730da2071082aef9ba820de6adede37/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
     }
 ]

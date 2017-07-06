@@ -1,14 +1,14 @@
 [
     {
-        "merged": "/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "/Users/franciscodominguez/.android/build-cache/cddf5414d601813886f6e7f41128a51224d620bc/output/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+        "merged": "/home/fdominguezg/AndroidStudioProjects/WifiModesExample/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/home/fdominguezg/.android/build-cache/8cc0b58c0fa786eb3f0a3cd275ab29104ace6298/output/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "/Users/franciscodominguez/.android/build-cache/cddf5414d601813886f6e7f41128a51224d620bc/output/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+        "merged": "/home/fdominguezg/AndroidStudioProjects/WifiModesExample/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/home/fdominguezg/.android/build-cache/8cc0b58c0fa786eb3f0a3cd275ab29104ace6298/output/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
-        "source": "/Users/franciscodominguez/.android/build-cache/cddf5414d601813886f6e7f41128a51224d620bc/output/res/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+        "merged": "/home/fdominguezg/AndroidStudioProjects/WifiModesExample/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/home/fdominguezg/.android/build-cache/8cc0b58c0fa786eb3f0a3cd275ab29104ace6298/output/res/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
     }
 ]

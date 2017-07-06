@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/franciscodominguez/proyectos/MePOSwifiExample/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "outputFile": "/home/fdominguezg/AndroidStudioProjects/WifiModesExample/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 96
                 },
                 "from": {
-                    "file": "/Users/franciscodominguez/.android/build-cache/67ab9beeabb104aba676103a01404b7d0c41ef24/output/res/values/values.xml",
+                    "file": "/home/fdominguezg/.android/build-cache/cbfd37b885314f7ede980eef60a0808977081037/output/res/values/values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
